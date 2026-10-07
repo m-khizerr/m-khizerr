@@ -2,7 +2,7 @@
 
 # Muhammad Khizer
 
-### Full-Stack & AI Engineer · Founder @ Xandec
+### Full-Stack & AI Engineer @ Xandec
 
 Building production-grade **AI, SaaS, voice, and 3D/geospatial products** — from architecture and backend systems to polished user experiences and cloud deployment.
 
@@ -14,7 +14,7 @@ Building production-grade **AI, SaaS, voice, and 3D/geospatial products** — fr
 
 ## About
 
-I'm a software engineer and founder focused on turning complex product ideas into reliable, scalable software. My work spans full-stack product engineering, AI/LLM systems, real-time voice applications, cloud infrastructure, and 3D/geospatial workflows.
+I'm a software engineer focused on turning complex product ideas into reliable, scalable software. My work spans full-stack product engineering, AI/LLM systems, real-time voice applications, cloud infrastructure, and 3D/geospatial workflows.
 
 I enjoy owning the difficult parts of a product: system architecture, data modeling, integrations, performance, deployment, and the engineering decisions that connect everything together.
 
